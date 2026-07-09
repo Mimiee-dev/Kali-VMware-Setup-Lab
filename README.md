@@ -29,6 +29,9 @@ The goal of this project was to safely deploy a Klai Linux virtual machine insid
     sudo apt update && sudo apt upgrade -y
     \'\'\'
     * Verified that VMware Tools were running correctly for clipboard sharing and screen scaling.
+
+      <img width="1918" height="915" alt="image" src="https://github.com/user-attachments/assets/1073dda3-5f40-40c6-983e-05b7fb5412e0" />
+
    
       ## Step 4: Key Takeaways & Challenges
       **Resource Management:** Learnt how to balance RAM allocation between my host machine and the VM so neither system         crashes.

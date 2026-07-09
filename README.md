@@ -15,6 +15,9 @@ The goal of this project was to safely deploy a Klai Linux virtual machine insid
 *  Allocated **2 CPU Cores**, **8GB RAM** and **30GB of Virtual Disk Space** to ensure smooth performance.
 *  Configured the Network Adapter to **NAT** for safe, isolated internet access.
 
+<img width="1918" height="1006" alt="image" src="https://github.com/user-attachments/assets/dd236e98-bfbe-4728-87b2-7b183a20a15b" />
+
+
   ## Step 2: OS Installation & Configuration
   * Booted the VM using the Kali ISO.
   * Selected the **Graphical Install** option.
